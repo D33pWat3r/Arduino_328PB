@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+*.kicad_pcb
+*.kicad_pcb-bak
+*.net
+*.lib
+sym-lib-table
