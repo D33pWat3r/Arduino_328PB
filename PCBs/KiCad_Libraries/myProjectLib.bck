@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega328PB-AU
+D 20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
+$ENDCMP
+#
+$CMP Arduino_Uno
+D Shield for Arduino Uno
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-uno-rev3
+$ENDCMP
+#
+$CMP Arduino_Uno_Shield_IO
+D Shield for Arduino Uno
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-uno-rev3
+$ENDCMP
+#
+$CMP Arduino_Uno_Shield_Programmer
+D Shield for Arduino Uno
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-uno-rev3
+$ENDCMP
+#
+#End Doc Library
