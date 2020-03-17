@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name myProjectLib)(type Legacy)(uri ${KIPRJMOD}/../KiCad_Libraries/myProjectLib.lib)(options "")(descr ""))
+  (lib (name ch34x)(type Legacy)(uri ${KIPRJMOD}/../KiCad_Libraries/kicad-ch34x-master/ch34x.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/../KiCad_Libraries/arduino-kicad-library-master/arduino.lib)(options "")(descr ""))
+  (lib (name ChargePump_662A)(type Legacy)(uri ${KIPRJMOD}/../KiCad_Libraries/ChargePump_662A.lib)(options "")(descr ""))
+)
