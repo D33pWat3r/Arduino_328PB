@@ -4,5 +4,4 @@
 *.kicad_pcb-bak
 *.net
 *.lib
-sym-lib-table
 fp-lib-table
